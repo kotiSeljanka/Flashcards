@@ -1,0 +1,7 @@
+§- Käyttäjä voi käyttää pääikkunaa samanaikaisesti Editori-ikkunan kanssa. Jos hän vaihtaa sanan pääikkunassa ja hyväksyy kortin muokkauksen, muokataan pääikkunan ruudulla oleva kortti.
+§- Käyttäjä voi aukaista useamman Editori-ikkunan.
+§- Korttipakan luomisessa ei vielä lisätarkistuksia. Ohjelma siis toimii vain oikeata syntaksia noudattamalla.
+§- Mekatut-nappi ei toimi ollenkaan :DDDDD Ei enää tallenna pakkaa: NoneType has no päläpälä
+§- words-moduuli tekee linkkejä objekteihin, eikä palauta niitä. Tämän takia tulee tuo NoneType. Tärkeä korjata!
+§- words-moduulin Deck on yliladattu! Jaettava pienempiin luokkiin
+§- DRY

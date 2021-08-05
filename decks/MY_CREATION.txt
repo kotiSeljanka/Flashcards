@@ -1,0 +1,12 @@
+sana:käännös, toinen:kolmas,
+koti:home, naapuri:neighbour, koira:dog, kissa:cat,
+äiti:mamma, punainen auto:röd bil,
+näin se:toimii, liian pitkät:sanat, eivät mahdu:pääikkunaan,
+SAA KÄYTTÄÄ:KaPsIa, Ääkköset:toimii myös(ehkä), väli lyönnit salliaan:vahdi pituutta,
+
+tässä muodolla: ei ole merkitystä,
+mutta tietysti: itsellesi on helpompaa,
+seurata alkuluontia: jos teen sen näin,
+sanat_ensin: sitten_käännös,
+
+viimeisen:jälkeen, ei tule:pilkkua

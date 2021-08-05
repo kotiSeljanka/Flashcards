@@ -1,0 +1,9 @@
+KOIRA:DOG:False,
+ KISSA:CAT:False,
+ VARIS:CROW:False,
+ LEHMÄ:COW:False,
+ SIKA:PIG:False,
+ KUKKO:COCK:False,
+ KISSA:CAT:False,
+ KISULI:CAT:False,
+ HAMSTERI:HAMSTER:False
